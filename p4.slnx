@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Monolith.Infra/Monolith.Infra.csproj" />
+  <Project Path="Monolith.Schedule/Monolith.Schedule.csproj" />
+</Solution>
